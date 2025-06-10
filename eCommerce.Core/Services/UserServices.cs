@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace eCommerce.Infrastructure.Repositories
+namespace eCommerce.Core.Services
 {
-    internal class teste
+    internal class UserServices
     {
     }
 }
